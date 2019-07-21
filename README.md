@@ -8,4 +8,9 @@ Place where I upload the code with the same functionality in both the languages
       * Quick Sort
       * Counting Sort
       * Heap Sort
+  * ### Recursion Concepts :-
+      * Head and Tail Recursion
+      * Recursion with increasing input size
+      * Using static or global variable in recursion
+   
       
