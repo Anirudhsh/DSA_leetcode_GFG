@@ -1,5 +1,6 @@
-Place where I upload the code with the same functionality in both the languages
 ## Contents
+  * ### DSA-450 :-
+  
   * ### Sorting Techniques Implementations :-
       * Bubble Sort
       * Selection Sort
@@ -12,8 +13,7 @@ Place where I upload the code with the same functionality in both the languages
       * Head and Tail Recursion
       * Recursion with increasing input size
       * Using static or global variable in recursion
-  * ### Backtracking :-
-      * N Queens problem
+  
   
    
       
