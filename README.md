@@ -1,19 +1,3 @@
-## Contents
-  * ### DSA-450 :-
-  
-  * ### Sorting Techniques Implementations :-
-      * Bubble Sort
-      * Selection Sort
-      * Insertion Sort
-      * Merge Sort
-      * Quick Sort
-      * Counting Sort
-      * Heap Sort
-  * ### Recursion Concepts :-
-      * Head and Tail Recursion
-      * Recursion with increasing input size
-      * Using static or global variable in recursion
-  
-  
+
    
       
